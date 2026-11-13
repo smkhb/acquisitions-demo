@@ -1,0 +1,25 @@
+{
+  "name": "acquisitions-demo",
+  "version": "1.0.0",
+  "description": "A demo project for learning devops building an acquisitions API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smkhb/acquisitions-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/smkhb/acquisitions-demo/issues"
+  },
+  "homepage": "https://github.com/smkhb/acquisitions-demo#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
